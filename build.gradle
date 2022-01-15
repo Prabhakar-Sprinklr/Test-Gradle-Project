@@ -7,7 +7,7 @@ group 'org.example'
 version '1.0-SNAPSHOT'
 
 application {
-    mainClass = 'java.test_package.test_class'
+    mainClass = 'test_package.test_class'
 }
 
 repositories {
